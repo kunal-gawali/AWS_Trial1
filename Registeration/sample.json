@@ -1,0 +1,1222 @@
+            [
+                {
+                    "BALANCE": 384.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "22-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 384.73,
+                    "NARRATION": "net txn billdesknach vybk9854239033 ybkenach",
+                    "TRANSACTION_DATE": "23-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 1,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 5225.73,
+                    "NARRATION": "imps\/5f1d481f 3225 4195 896c de301e343497\/fincfriendsprivate\/xxx1640\/rrn 108214303768\/icici bank",
+                    "TRANSACTION_DATE": "23-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 4841,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 225.73,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 108214819402\/r0000000000280320255\/axis bank\/b naresh kumar\/from loan",
+                    "TRANSACTION_DATE": "23-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 5000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 226.73,
+                    "NARRATION": "rev of nach vybk9854239033 23 03 21",
+                    "TRANSACTION_DATE": "24-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 1,
+                    "transactionPrimaryCategory": "REFUND",
+                    "transactionSecondaryCategory": "PAYMENT_REVERSAL",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 181.73,
+                    "NARRATION": "upi\/108488722055\/from 9493642852bandari@paytm\/to gpay 11169509337@okbizaxis\/na",
+                    "TRANSACTION_DATE": "25-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 45,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 181.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "26-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 91.73,
+                    "NARRATION": "upi\/108627539656\/from 9493642852bandari@paytm\/to q79243024@ybl\/na",
+                    "TRANSACTION_DATE": "27-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 90,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 161.73,
+                    "NARRATION": "upi\/108711184783\/from bandarinaresh@dbs\/to 9493642852@yesbank\/test",
+                    "TRANSACTION_DATE": "28-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 70,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 221.73,
+                    "NARRATION": "upi\/108739852607\/from 9493642852@ybl\/to 9493642852@ybl\/test",
+                    "TRANSACTION_DATE": "28-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 60,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 10.73,
+                    "NARRATION": "upi\/108754566861\/from 9493642852bandari@paytm\/oid202103281143100074@sai best buy super martto pay9492704949@paytm\/",
+                    "TRANSACTION_DATE": "28-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 211,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "GROCERIES",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 10.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "29-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 10.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "30-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 82878.73,
+                    "NARRATION": "neft cr bofa0nd6216 guru gowri krupatechnologies pvt naresh kumar 213v33724ai21g53",
+                    "TRANSACTION_DATE": "31-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 82868,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 83678.73,
+                    "NARRATION": "neft cr bofa0nd6216 guru gowri krupa technologiespvt naresh kumar bandari 213v337411az2067",
+                    "TRANSACTION_DATE": "31-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 800,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 55678.73,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 109013732294\/r0000000000280836896\/axis bank\/b naresh kumar\/monthly pay",
+                    "TRANSACTION_DATE": "31-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 28000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 49842.73,
+                    "NARRATION": "upi\/109015082977\/from bandarinaresh 1@okicici\/to cashfree pay@icici\/cashfree payment",
+                    "TRANSACTION_DATE": "31-03-2021",
+                    "month": "Mar-2021",
+                    "transactionAmount": 5836,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 49890.73,
+                    "NARRATION": "credit interest capitalised",
+                    "TRANSACTION_DATE": "01-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 48,
+                    "transactionPrimaryCategory": "INFLOW",
+                    "transactionSecondaryCategory": "INTEREST_CREDIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 24890.73,
+                    "NARRATION": "upi\/109111047995\/from bandarinaresh 1@okicici\/to sreejamali33 1@okhdfcbank\/refund amount",
+                    "TRANSACTION_DATE": "01-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 25000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 18890.73,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 109212965622\/r0000000000281014655\/axis bank\/b naresh kumar\/for praveen",
+                    "TRANSACTION_DATE": "02-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 6000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 15890.73,
+                    "NARRATION": "upi\/109267913614\/from 9493642852@ybl\/to 9849342334@ybl\/for praveen",
+                    "TRANSACTION_DATE": "02-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 3000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 3999.73,
+                    "NARRATION": "imps\/na\/xxxx3003\/rrn 109213655935\/r0000000000281023850\/idfc\/money in minutes\/loan closure",
+                    "TRANSACTION_DATE": "02-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 11891,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 14432.73,
+                    "NARRATION": "002261100000063\/transfermoney in minutes\/bandari naresh\/cashfree paymen",
+                    "TRANSACTION_DATE": "02-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 10433,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 13432.73,
+                    "NARRATION": "upi\/109308396812\/from 9493642852@yesbank\/to lazypay payu@hdfcbank\/upi transaction",
+                    "TRANSACTION_DATE": "03-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 1000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 8066.73,
+                    "NARRATION": "ach dr ctrazorpay drpfinancegu4xb8zo3wwu",
+                    "TRANSACTION_DATE": "03-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 5366,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 5066.73,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 109313848034\/r0000000000281100007\/axis bank\/b naresh kumar\/for loan payment",
+                    "TRANSACTION_DATE": "03-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 3000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 1626.73,
+                    "NARRATION": "upi\/109315463514\/from bandarinaresh 1@okicici\/to paymentsquickcredit in@okhdfcbank\/loan payment",
+                    "TRANSACTION_DATE": "03-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 3440,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 1631.73,
+                    "NARRATION": "upi\/109409217826\/from 9493642852@apl\/to 9493642852@yesbank\/upi",
+                    "TRANSACTION_DATE": "04-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 5,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 28631.73,
+                    "NARRATION": "imps\/imps p2a\/bandarinareshkumar\/xxx6759\/rrn 109413710837\/axis bank",
+                    "TRANSACTION_DATE": "04-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 27000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 22996.73,
+                    "NARRATION": "axis bank ltd branch osc",
+                    "TRANSACTION_DATE": "05-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 5635,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 15496.73,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 109519961455\/r0000000000281266641\/axis bank\/b naresh kumar\/for card pay",
+                    "TRANSACTION_DATE": "05-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 7500,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 22996.73,
+                    "NARRATION": "upi\/109508382933\/from 9493642852@ybl\/to 9493642852@ybl\/for loan",
+                    "TRANSACTION_DATE": "05-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 7500,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 1346.73,
+                    "NARRATION": "ach dr ctrazorpay cashexxxxxgvqmeyivckpv",
+                    "TRANSACTION_DATE": "06-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 21650,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 1346.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "07-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 1346.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "08-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 1346.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "09-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 1256.73,
+                    "NARRATION": "upi\/110083009389\/from 9493642852@ybl\/to q79243024@ybl\/curd",
+                    "TRANSACTION_DATE": "10-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 90,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "000692800016210 transfer to rd 000692800016210",
+                    "TRANSACTION_DATE": "11-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 1000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "12-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "13-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "14-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "15-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "16-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "17-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "18-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "19-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 256.73,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "20-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 7756.73,
+                    "NARRATION": "upi\/111177416296\/from 9493642852@ybl\/to 9493642852@ybl\/for loan",
+                    "TRANSACTION_DATE": "21-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 7500,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "ach dr tp ach moneymitrait 602633338",
+                    "TRANSACTION_DATE": "22-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 7135.8,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "23-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "24-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "25-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "26-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "27-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "28-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 620.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "29-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 1420.93,
+                    "NARRATION": "neft cr bofa0nd6216 guru gowri krupa technologiespvt naresh kumar bandari 214u728303r21g71",
+                    "TRANSACTION_DATE": "30-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 800,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 80565.93,
+                    "NARRATION": "neft cr bofa0nd6216 guru gowri krupatechnologies pvt naresh kumar 214u7284473z1x87",
+                    "TRANSACTION_DATE": "30-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 79145,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 58915.93,
+                    "NARRATION": "upi\/112020357319\/from 9493642852@yesbank\/to cashe@kotak\/upi collect request",
+                    "TRANSACTION_DATE": "30-04-2021",
+                    "month": "Apr-2021",
+                    "transactionAmount": 21650,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 88915.93,
+                    "NARRATION": "upi\/112102970073\/from 9493642852@ybl\/to 9493642852@ybl\/for cashe",
+                    "TRANSACTION_DATE": "01-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 30000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 98915.93,
+                    "NARRATION": "upi\/112132769939\/from 9493642852@ybl\/to 9493642852@ybl\/self",
+                    "TRANSACTION_DATE": "01-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 10000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 12315.93,
+                    "NARRATION": "upi\/112110750727\/from 9493642852@yesbank\/to 999990000173368@kkbk0000958 ifsc npci\/loan closure",
+                    "TRANSACTION_DATE": "01-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 86600,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 6949.93,
+                    "NARRATION": "ach dr ctrazorpay drpfinanceh5aupfxupt9v",
+                    "TRANSACTION_DATE": "01-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 5366,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 13949.93,
+                    "NARRATION": "upi\/112239762517\/from 9493642852@ybl\/to 9493642852@ybl\/for loan",
+                    "TRANSACTION_DATE": "02-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 7000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 706.93,
+                    "NARRATION": "imps\/na\/xxxx3003\/rrn 112207848072\/r0000000000282934969\/idfc\/money in minutes\/loan closure",
+                    "TRANSACTION_DATE": "02-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 13243,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 10139.93,
+                    "NARRATION": "002261100000063\/transfermoney in minutes\/bandari naresh\/cashfree paymen",
+                    "TRANSACTION_DATE": "03-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 9433,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 10119.93,
+                    "NARRATION": "upi\/112305242793\/from 9493642852@ybl\/to q60977000@ybl\/payment from phonepe",
+                    "TRANSACTION_DATE": "03-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 20,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 10094.93,
+                    "NARRATION": "upi\/112319057770\/from 9493642852bandari@paytm\/oid202105031916390003@sri balaji tiffens curriesto paytm 38947329@paytm\/",
+                    "TRANSACTION_DATE": "03-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 25,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 10040.93,
+                    "NARRATION": "upi\/112319136825\/from 9493642852bandari@paytm\/oid202105031919340044@cakeboyzsto paytm 31105737@paytm\/",
+                    "TRANSACTION_DATE": "03-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 54,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "FOOD",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 9995.93,
+                    "NARRATION": "upi\/112319367628\/from 9493642852bandari@paytm\/to q79243024@ybl\/na",
+                    "TRANSACTION_DATE": "03-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 45,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 9995.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "04-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 9994.93,
+                    "NARRATION": "net txn billdesknach vybk9947856745 ybkenach",
+                    "TRANSACTION_DATE": "05-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 1,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 16084.93,
+                    "NARRATION": "imps\/cc6ef084 5e8a 4b0f 8f7e d41bdf550293\/fincfriendsprivate\/xxx1640\/rrn 112511961726\/icici bank",
+                    "TRANSACTION_DATE": "05-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 6090,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 10449.93,
+                    "NARRATION": "ach dr shriramcityunionfin mdptmpl210121",
+                    "TRANSACTION_DATE": "05-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 5635,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 4449.93,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 112515842320\/r0000000000283166218\/axis bank\/b naresh kumar\/for axis",
+                    "TRANSACTION_DATE": "05-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 6000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 4450.93,
+                    "NARRATION": "rev of billdesknach vybk9947856745 05 05",
+                    "TRANSACTION_DATE": "06-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 1,
+                    "transactionPrimaryCategory": "REFUND",
+                    "transactionSecondaryCategory": "PAYMENT_REVERSAL",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 150.93,
+                    "NARRATION": "upi\/112691795892\/from 9493642852@ybl\/to 9493642852@ybl\/payment from phonepe",
+                    "TRANSACTION_DATE": "06-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 4300,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 72.93,
+                    "NARRATION": "upi\/112679378639\/from 9493642852bandari@paytm\/oid202105061810190051@sai best buy super martto pay9492704949@paytm\/",
+                    "TRANSACTION_DATE": "06-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 78,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "GROCERIES",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 15364.93,
+                    "NARRATION": "imps\/imps p2a\/drp financial servic\/xxx0380\/rrn 112620512939\/icici bank",
+                    "TRANSACTION_DATE": "06-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 15292,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 9364.93,
+                    "NARRATION": "upi\/112620693603\/from 9493642852@yesbank\/to 9493642852@axisbank\/for mutual fund",
+                    "TRANSACTION_DATE": "06-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 6000,
+                    "transactionPrimaryCategory": "INVESTMENT",
+                    "transactionSecondaryCategory": "OTHER_INVESTMENT",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 3364.93,
+                    "NARRATION": "upi\/112700779685\/from 9493642852@ybl\/to 8897860391@ybl\/interest",
+                    "TRANSACTION_DATE": "07-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 6000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 1364.93,
+                    "NARRATION": "upi\/112825812657\/from 9493642852@ybl\/to 9493642852@ybl\/for srinivas loan",
+                    "TRANSACTION_DATE": "08-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 2000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 137571.93,
+                    "NARRATION": "imps\/imps cms from bhanix\/bhanix finance andi\/xxx4340\/rrn 112821835730\/kotakmahindrabank",
+                    "TRANSACTION_DATE": "08-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 136207,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 137321.93,
+                    "NARRATION": "upi\/112911323232\/from bandarinaresh 1@okicici\/to shaizanqurashi@okaxis\/mutton",
+                    "TRANSACTION_DATE": "09-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 250,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 137161.93,
+                    "NARRATION": "upi\/112933079777\/from 9493642852bandari@paytm\/to q87407071@ybl\/na",
+                    "TRANSACTION_DATE": "09-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 160,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 146161.93,
+                    "NARRATION": "neft cr icic0000104 eqx analytics pvt ltd paymentescrow account bandari naresh kumar cms1938231078",
+                    "TRANSACTION_DATE": "10-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 9000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_DEPOSIT",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 146125.93,
+                    "NARRATION": "upi\/113048408635\/from 9493642852bandari@paytm\/oid202105100920570096@sri krishna milk centreto paytm 43848655@paytm\/",
+                    "TRANSACTION_DATE": "10-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 36,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "WALLET_PAYMENT_GATEWAY",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 11125.93,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 113010821219\/r0000000000283460009\/axis bank\/b naresh kumar\/for smartsearch",
+                    "TRANSACTION_DATE": "10-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 135000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 10125.93,
+                    "NARRATION": "000692800016210 transfer to rd 000692800016210",
+                    "TRANSACTION_DATE": "11-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 1000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 3125.93,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 113115694848\/r0000000000283568887\/axis bank\/b naresh kumar\/for canara",
+                    "TRANSACTION_DATE": "11-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 7000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 3125.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "12-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 3125.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "13-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 3125.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "14-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 3125.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "15-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 3125.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "16-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 2125.93,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 113719879961\/r0000000000283918780\/axis bank\/b naresh kumar\/akhil",
+                    "TRANSACTION_DATE": "17-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 1000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 1689.93,
+                    "NARRATION": "upi\/113812980363\/from 9493642852bandari@paytm\/oid202105180838330024@sai best buy super martto pay9492704949@paytm\/",
+                    "TRANSACTION_DATE": "18-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 436,
+                    "transactionPrimaryCategory": "EXPENSE",
+                    "transactionSecondaryCategory": "GROCERIES",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 50689.93,
+                    "NARRATION": "imps\/imps p2a\/bandarinareshkumar\/xxx6759\/rrn 113811118095\/axis bank",
+                    "TRANSACTION_DATE": "18-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 49000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 189.93,
+                    "NARRATION": "upi\/113811134031\/from bandarinaresh 1@okicici\/to harithejs@okhdfcbank\/from srinath",
+                    "TRANSACTION_DATE": "18-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 50500,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 189.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "19-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 189.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "20-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 189.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "21-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 9.93,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 114209752090\/r0000000000284162651\/axis bank\/b naresh kumar\/groceries",
+                    "TRANSACTION_DATE": "22-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 180,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 9.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "23-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 9.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "24-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 9.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "25-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 9.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "26-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 9.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "27-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 77026.93,
+                    "NARRATION": "neft cr bofa0nd6216 guru gowri krupatechnologies pvt naresh kumar 215sa1638hw10l02",
+                    "TRANSACTION_DATE": "28-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 77017,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 77826.93,
+                    "NARRATION": "neft cr bofa0nd6216 guru gowri krupa technologiespvt naresh kumar bandari 215sa17364b20k16",
+                    "TRANSACTION_DATE": "28-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 800,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "CREDIT"
+                },
+                {
+                    "BALANCE": 77826.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "29-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 77826.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "30-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 59826.93,
+                    "NARRATION": "imps\/na\/xxxx6759\/rrn 115110844797\/r0000000000284600858\/axis bank\/b naresh kumar\/for shruthi",
+                    "TRANSACTION_DATE": "31-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 18000,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 24826.93,
+                    "NARRATION": "upi\/115127745349\/from 9493642852@ybl\/to 9700479819@ybl\/hand loan amount",
+                    "TRANSACTION_DATE": "31-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 35000,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 24790.93,
+                    "NARRATION": "gst",
+                    "TRANSACTION_DATE": "31-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 36,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 24590.93,
+                    "NARRATION": "nach return charges for 25 may 2021",
+                    "TRANSACTION_DATE": "31-05-2021",
+                    "month": "May-2021",
+                    "transactionAmount": 200,
+                    "transactionPrimaryCategory": "WARNINGS",
+                    "transactionSecondaryCategory": "ECS_FAIL_CHARGES",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 18871.93,
+                    "NARRATION": "ach dr ctrazorpay drpfinancehhqiocinwny2",
+                    "TRANSACTION_DATE": "01-06-2021",
+                    "month": "Jun-2021",
+                    "transactionAmount": 5719,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 12658.93,
+                    "NARRATION": "ach dr unique auto finance uniqueauto71e",
+                    "TRANSACTION_DATE": "02-06-2021",
+                    "month": "Jun-2021",
+                    "transactionAmount": 6213,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 12658.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "03-06-2021",
+                    "month": "Jun-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 12658.93,
+                    "NARRATION": "Imputed balance transaction",
+                    "TRANSACTION_DATE": "04-06-2021",
+                    "month": "Jun-2021",
+                    "transactionAmount": 0,
+                    "transactionPrimaryCategory": "",
+                    "transactionSecondaryCategory": "",
+                    "transactionType": "BALANCE"
+                },
+                {
+                    "BALANCE": 6851.93,
+                    "NARRATION": "imps\/na\/xxxx3003\/rrn 115609637554\/r0000000000284991599\/idfc\/money in minutes\/loan closure",
+                    "TRANSACTION_DATE": "05-06-2021",
+                    "month": "Jun-2021",
+                    "transactionAmount": 5807,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                },
+                {
+                    "BALANCE": 1216.93,
+                    "NARRATION": "ach dr shriramcityunionfin mdptmpl210121",
+                    "TRANSACTION_DATE": "05-06-2021",
+                    "month": "Jun-2021",
+                    "transactionAmount": 5635,
+                    "transactionPrimaryCategory": "OBLIGATIONS",
+                    "transactionSecondaryCategory": "LOAN_OBLIGATION",
+                    "transactionType": "DEBIT"
+                }
+]
